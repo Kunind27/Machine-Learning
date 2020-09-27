@@ -1,11 +1,11 @@
 <h>**Machine Learning**</h>
 
-Hey! This is Kunind here. This GitHub Repository contains the solutions of the <a href="https://github.com/dibgerge/ml-coursera-python-assignments">Python Version</a> (the course assignments were meant to be done in GNU Octave or MATLAB)
+Hey! This is Kunind here. This GitHub Repository contains the solutions of the <a href="https://github.com/dibgerge/ml-coursera-python-assignments">Python Version</a> (the course assignments were meant to be done in `GNU Octave` or `MATLAB`)
 of <a href="https://www.coursera.org/learn/machine-learning"> Andrew Ng's Machine Learning course</a>
 on <a href="https://www.coursera.org/">Coursera</a>.
 
 I also have uploaded an **xlsx** file named **ML Error History** in which I've recorded all the types of errors I faced when 
-solving the programming assignments in Python. Feel free to go through them if you're stuck at a certain point in your solution for a really long time!
+solving the programming assignments in `Python`. Feel free to go through them if you're stuck at a certain point in your solution for a really long time!
 
 The Contents of the Exercises are as follows:
 <ul>
