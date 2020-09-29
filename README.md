@@ -1,6 +1,6 @@
 <h>**Machine Learning**</h>
 
-Hey! This is Kunind here. This GitHub Repository contains the solutions of the <a href="https://github.com/dibgerge/ml-coursera-python-assignments">Python Version</a> (the course assignments were meant to be done in `GNU Octave` or `MATLAB`)
+Hey! This GitHub Repository contains the solutions of the <a href="https://github.com/dibgerge/ml-coursera-python-assignments">Python Version</a> (the course assignments were meant to be done in `GNU Octave` or `MATLAB`)
 of <a href="https://www.coursera.org/learn/machine-learning"> Andrew Ng's Machine Learning course</a>
 on <a href="https://www.coursera.org/">Coursera</a>.
 
