@@ -7,7 +7,7 @@ on <a href="https://www.coursera.org/">Coursera</a>.
 I also have uploaded an **xlsx** file named **ML Error History** in which I've recorded all the types of errors I faced when 
 solving the programming assignments in `Python`. Feel free to go through them if you're stuck at a certain point in your solution for a really long time!
 
-The Contents of the Exercises are as follows:
+The contents of the exercises are as follows:
 <ul>
 <li> <a href="https://github.com/Kunind27/Machine-Learning/tree/master/Exercise%201">Exercise 1</a>: Linear Regression
 <li> <a href="https://github.com/Kunind27/Machine-Learning/tree/master/Exercise%202">Exercise 2</a>: Logistic Regression
